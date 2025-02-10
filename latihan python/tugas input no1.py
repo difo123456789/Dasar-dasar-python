@@ -1,0 +1,6 @@
+print("total jumlah barang")
+buku= input("jumlah buku")
+pulpen= input("jumlah pulpen")
+penggaris= input("jumlah penggaris")
+total =int(buku)+int(pulpen)+int(penggaris)
+print("total jumlah barang",total )

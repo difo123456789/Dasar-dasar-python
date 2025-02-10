@@ -1,0 +1,5 @@
+print("difo armi frasetya")
+print("batam")
+print("4febuari2005")
+print("sma swasta yayasan pendidikan pancasila")
+print("karena umsu ungul cerdas dan terpercaya")

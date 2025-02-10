@@ -1,0 +1,5 @@
+print("hasil")
+nasipadanng = input("satu bungkus")
+nasigoreng = input("dua bungkus")
+hasil = int(nasipadanng)/ int(nasigoreng)
+print ("hasil bungkus",hasil)

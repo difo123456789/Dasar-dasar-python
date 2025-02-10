@@ -1,0 +1,5 @@
+print("total kandang ")
+bebek= input("Jumlah bebek = ")
+kapasitas= input("Kapasitas bebek per kandang = ")
+total=int(bebek)/int(kapasitas)
+print("Total kandang",total)
